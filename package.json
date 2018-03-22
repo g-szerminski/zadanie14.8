@@ -1,0 +1,22 @@
+{
+  "name": "zadanie14.8",
+  "version": "1.0.0",
+  "description": "14 - ReactJS<br>\r 14.8 - PROJEKT: Wyszukiwarka gifów<br>\r Zadanie: Działająca wyszukiwarka gifów",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-szerminski/zadanie14.8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-szerminski/zadanie14.8/issues"
+  },
+  "homepage": "https://github.com/g-szerminski/zadanie14.8#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
